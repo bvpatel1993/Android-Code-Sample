@@ -1,7 +1,7 @@
 package com.zappos.ilovezappos;
 
 /**
- * Created by bhavikon 30-01-2017.
+ * Created by bhavik on 30-01-2017.
  */
 
 public class Information {
